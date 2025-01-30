@@ -7,7 +7,7 @@ This is a simple public API that returns basic information in JSON format using 
 - **Response**:
   ```json
   {
-    "email": "your-email@example.com",
-    "current_datetime": "2023-10-05T12:34:56.789Z",
-    "github_url": "https://github.com/yourusername/your-repo"
+    "email": "jubriltayo@gmail.com",
+    "current_time": "2025-01-30T21:51:08.290074Z",
+    "github_url": "https://github.com/jubriltayo/basic_info.git"
   }
