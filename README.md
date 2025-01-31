@@ -11,3 +11,6 @@ This is a simple public API that returns basic information in JSON format using 
     "current_time": "2025-01-30T21:51:08.290074Z",
     "github_url": "https://github.com/jubriltayo/basic_info.git"
   }
+
+### HNG Internship
+Python: https://hng.tech/hire/python-developers 
