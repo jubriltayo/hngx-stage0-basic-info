@@ -19,5 +19,5 @@ def get_info():
     return {
         "email": "jubriltayo@gmail.com",
         "current_datetime": datetime.now().isoformat() + "Z",
-        "github_url": "https://github.com/jubriltayo/basic_info.git"
+        "github_url": "https://github.com/jubriltayo/basic_info"
     }
